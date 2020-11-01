@@ -1,6 +1,5 @@
 const db = require("../models");
 
-
 module.exports = function (app) {
 
     //Get workouts
@@ -13,7 +12,6 @@ module.exports = function (app) {
                     total += e.duration;
                 });
                 workout.totalDuration = total;
-
             });
 
             res.json(dbWorkout);
@@ -31,7 +29,7 @@ module.exports = function (app) {
             res.json(err);
         });
     });
-    
+
     //Dashboard
     app.get("/api/workouts/range", (req, res) => {
 
@@ -57,8 +55,5 @@ module.exports = function (app) {
             }).catch(err => {
                 res.json(err);
             });
-
     });
-
-
 }
