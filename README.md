@@ -3,17 +3,23 @@
 # fitnessTracker
 Unit 17 Nosql Homework: Workout Tracker
 
+## Deployed Application
+ https://whispering-stream-46259.herokuapp.com/
+
 ## Description
 
 Users are able to view create and track daily workouts. Additionally, users are able to log multiple exercises in a workout on a given day and also track the name, type, weight, sets, reps, and duration of an exercise. If the exercise is a cardio exercise the user can track their distance traveled.
 
 ## Installation
 
-To run this programm node must be installed in your terminal followed by npm init and npm install 'inquirer' and 'fs'.
+To run this programm node must be installed in your terminal followed by npm init in order to install the application's dependencies, MongoDB is also required to store data.
 
 ## Usage
 
-Use node index.js to run the application on your terminal and answer the prompted questions assigned to each role. After you anwered all questions a new file will be generated containing your engineering team information in an organized roster based on the anwers provided by the user.
+It's very simplde to add and continue a workout from your dashboard. If a user wants to add a new workout, simply click the "New Workout" button and complete a short description of the new workout being added. If the user wants to continue a workout that has not yet been marked as "Complete", simply click the "Continue Workout". Users can also view and track a complete dashboard of workouts they have completed through out the week.
+
+## Demo Images
+
 
 ## License
 
