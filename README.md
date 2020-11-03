@@ -12,11 +12,11 @@ Users are able to view create and track daily workouts. Additionally, users are 
 
 ## Installation
 
-To run this programm node must be installed in your terminal followed by npm init in order to install the application's dependencies, MongoDB is also required to store data.
+To run this program node must be installed in your terminal followed by npm init in order to install the application's dependencies, MongoDB is also required to store data.
 
 ## Usage
 
-It's very simplde to add and continue a workout from your dashboard. If a user wants to add a new workout, simply click the "New Workout" button and complete a short description of the new workout being added. If the user wants to continue a workout that has not yet been marked as "Complete", simply click the "Continue Workout". Users can also view and track a complete dashboard of workouts they have completed through out the week.
+It's very simple to add and continue a workout from your main dashboard. If a user wants to add a new workout, simply click the "New Workout" button and complete a short description of the new workout being added. If the user wants to continue a workout that has not yet been marked as "Complete", simply click the "Continue Workout". Users can also view and track a complete dashboard of workouts they have completed through out the week.
 
 ## Demo Images
 
