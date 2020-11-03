@@ -20,6 +20,9 @@ It's very simplde to add and continue a workout from your dashboard. If a user w
 
 ## Demo Images
 
+<img src="/media/fitnessTracker.png">
+
+<img src="/media/fitnessDashboard.png">
 
 ## License
 
